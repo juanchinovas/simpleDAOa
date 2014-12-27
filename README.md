@@ -5,7 +5,8 @@ A Simple Data Access Object for Android to control your android app databases.
 ==========
 How to use simpleDAOa?
 
-    1. Create a xml file in assets directory named dao.xml. That file have to have the following structure
+    1. Create a xml file in assets directory named dao.xml. 
+       That file have to have the following structure
         <db name='db_name' version='1'>
             <table name='tbl_name1' class='testdaoa.testingdaoa.Person'>
                 <field type='INTEGER' nullable='false' key='true' auto='true'>_id</field>
@@ -21,4 +22,4 @@ How to use simpleDAOa?
             </table>
         </db>
     2. Add the DAOa project as library in your Android project
-    3. Create a Instance of a singleton class <b>DBManager</b>. and you can access all methods in this class.
+    3. Create a Instance of a singleton class ```<b>DBManager</b>```. and you can access all methods in this class.
