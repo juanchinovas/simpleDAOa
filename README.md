@@ -22,4 +22,4 @@ How to use simpleDAOa?
             </table>
         </db>
     2. Add the DAOa project as library in your Android project
-    3. Create a Instance of a singleton class ```<b>DBManager</b>```. and you can access all methods in this class.
+    3. Create a Instance of a singleton class `<b>DBManager</b>`. and you can access all methods in this class.
