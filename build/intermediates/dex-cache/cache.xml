@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/juanchi/AndroidStudioProjects/TestingDaoA/app/build/intermediates/exploded-aar/TestingDaoA/DAOa/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73f7e0ee9674acacc9d907b39485d48e2a4251dc">
+        <dex dex="/home/juanchi/AndroidStudioProjects/TestingDaoA/app/build/intermediates/pre-dexed/debug/classes-dfbb82e31aa7b770378bfdd37c808f9d10a52581.jar" />
+    </item>
+    <item
+        jar="/usr/local/share/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/juanchi/AndroidStudioProjects/TestingDaoA/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-134e8b6844e7ef00810bd65fd482b20515ce1321.jar" />
+    </item>
+    <item
+        jar="/home/juanchi/AndroidStudioProjects/TestingDaoA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/home/juanchi/AndroidStudioProjects/TestingDaoA/app/build/intermediates/pre-dexed/debug/classes-2d2b69bef0b75388e48f47f94d3909bd89b0273c.jar" />
+    </item>
+    <item
+        jar="/home/juanchi/AndroidStudioProjects/simpleDAOa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/home/juanchi/AndroidStudioProjects/simpleDAOa/app/build/intermediates/pre-dexed/debug/classes-c4db30f975ecc219ceca5a76424001052c2ce210.jar" />
+    </item>
+    <item
+        jar="/home/juanchi/AndroidStudioProjects/simpleDAOa/app/build/intermediates/exploded-aar/simpleDAOa/DAOa/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="50868278396d3167309c6946256724aff979453b">
+        <dex dex="/home/juanchi/AndroidStudioProjects/simpleDAOa/app/build/intermediates/pre-dexed/debug/classes-9c601e20519f75ab582ff3b7f2d8e12fdaa69cf7.jar" />
+    </item>
+
+</items>
